@@ -1,4 +1,5 @@
 ### Hi there 👋
+Mon parcours professionnel est assez varié pour arriver à ce jour au métier de Développeur web. J'ai eu l'opportunité de concrétiser un rêve, celui de pouvoir me former à ce métier en suivant une formation intensive avec l'école O'Clock sur une durée de 6 mois. Cette formation m'a permis de confirmer mon envie de continuer dans cette voie qui me correspond.
 
 <!--
 **Aurelienlaury/Aurelienlaury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
